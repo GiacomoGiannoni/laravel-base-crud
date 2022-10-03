@@ -18,6 +18,7 @@ class CreateFumettiTable extends Migration
             $table->string('title');
             $table->string('author');
             $table->date('release_date');
+            $table->integer('pages');
             $table->timestamps();
         });
     }
