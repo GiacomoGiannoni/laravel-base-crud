@@ -4,7 +4,7 @@ namespace App;
 
 use Illuminate\Database\Eloquent\Model;
 
-class fumetti extends Model
+class Fumetti extends Model
 {
     protected $fillable = [
         'title',
