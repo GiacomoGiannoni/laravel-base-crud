@@ -1,1 +1,22 @@
-//
+body {
+    header{
+        height: 50px;
+        background-color:white;
+    }
+    background-color: #f1efef;
+    ul{
+
+        width: 300px;
+        list-style-type: none;
+        margin: auto;
+        a {
+            text-decoration: none;
+
+        }
+    }
+    footer {
+        background-color: black;
+        color:white;
+        height: 200px;
+    }
+}

@@ -1,9 +1,9 @@
 <?php
 
 use Illuminate\Database\Seeder;
-use App\Fumetti;
+use App\Comic;
 
-class fumettiSeeder extends Seeder
+class comicSeeder extends Seeder
 {
     /**
      * Run the database seeds.

@@ -1,0 +1,25 @@
+body {
+    background-color: #f1efef;
+}
+  
+body header {
+    height: 50px;
+    background-color: white;
+}
+  
+body ul {
+    width: 300px;
+    list-style-type: none;
+    margin: auto;
+}
+  
+body ul a {
+    text-decoration: none;
+}
+  
+body footer {
+    background-color: black;
+    color: white;
+    height: 200px;
+}
+  
