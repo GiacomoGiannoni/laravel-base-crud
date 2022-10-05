@@ -1,25 +1,18 @@
-body {
-    background-color: #f1efef;
-}
+.card {
+    margin-top: 4rem;
+  }
   
-body header {
-    height: 50px;
-    background-color: white;
-}
+  .card img {
+    max-height: 20rem;
+    -o-object-fit: cover;
+       object-fit: cover;
+    -o-object-position: top;
+       object-position: top;
+  }
   
-body ul {
-    width: 300px;
-    list-style-type: none;
-    margin: auto;
-}
+  .card .desc {
+    max-height: 10rem;
+    overflow: auto;
+  }
   
-body ul a {
-    text-decoration: none;
-}
-  
-body footer {
-    background-color: black;
-    color: white;
-    height: 200px;
-}
   
